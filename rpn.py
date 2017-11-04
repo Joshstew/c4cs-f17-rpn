@@ -9,7 +9,7 @@ operators = {
     '-': operator.sub,
     '*': operator.mul,
     '/': operator.truediv,
-    '^': operator.math.pow,
+    '^': operator.expo,
 }
 
 def calculate(myarg):
